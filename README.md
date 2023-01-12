@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bras1994
+- 👋 Hi, I’m Brenda Santos
 - 👀 I’m interested in frontend...
-- 🌱 I’m currently learning  JavaScript
+- 🌱 I’m currently learning  JavaScript and React Js
 - 💞️ I’m looking to collaborate on  to everything that makes me learn and grow.
 - 📫 How to reach me ...  https://www.linkedin.com/in/brenda-agustina-santos/
 
